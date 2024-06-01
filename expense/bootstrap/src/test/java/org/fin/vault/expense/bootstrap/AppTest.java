@@ -5,13 +5,13 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class MainTest {
+class AppTest {
 
-  private Main cut;
+  private App cut;
 
   @BeforeEach
   void setUp() {
-    this.cut = new Main();
+    this.cut = new App();
   }
 
   @Test

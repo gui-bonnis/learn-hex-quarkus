@@ -1,6 +1,6 @@
 package org.fin.vault.expense.bootstrap;
 
-public class Main {
+public class App {
 
   public String format(String input) {
     return input.toUpperCase();
